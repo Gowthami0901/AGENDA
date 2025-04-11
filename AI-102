@@ -1,0 +1,94 @@
+
+### 🧾 **AI-102 Exam Process: Step-by-Step**
+
+## ✅ 1. **Exam Registration**
+
+- **Exam Code:** AI-102
+- **Title:** Designing and Implementing an Azure AI Solution
+- **Official URL:** [Microsoft Exam AI-102](https://learn.microsoft.com/en-us/certifications/exams/ai-102/)
+
+### 👉 How to Register:
+- Go to the official [Microsoft Certification page](https://learn.microsoft.com/en-us/certifications/)
+- Search for **AI-102**
+- Click “**Schedule with Pearson VUE**”
+- Choose:
+  - **Exam Type:** Online (at home) or Test Center
+  - **Date & Time:** Pick a convenient slot
+
+> 💰 **Cost:** ₹4,800 – ₹6,000 (India); ~ $165 (US)  
+> 💸 Discounts: Often available through Microsoft Learn Challenges or student benefits
+
+---
+
+## 🧪 2. **Exam Format & Structure**
+
+| Section Type            | Details                                      |
+|-------------------------|----------------------------------------------|
+| 📋 Number of Questions   | 40 – 60                                      |
+| ⏱️ Duration              | 100 – 120 minutes                            |
+| 🧠 Question Types        | MCQs, Drag-and-Drop, Case Studies, Labs*     |
+| 📊 Passing Score         | 700 out of 1000                              |
+| 🧪 Labs (Beta)           | Sometimes included, not always               |
+
+> ⚠️ *Live labs are rare but possible. Make sure you’ve used Azure Portal at least a bit.*
+
+---
+
+## 🧠 3. **Topics Covered (High-Level)**
+
+| Domain                                      | Weight (%)  |
+|--------------------------------------------|-------------|
+| Plan and manage an Azure AI solution       | 15–20%      |
+| Implement computer vision solutions        | 20–25%      |
+| Implement natural language processing      | 20–25%      |
+| Implement knowledge mining solutions       | 15–20%      |
+| Implement conversational AI solutions      | 15–20%      |
+
+📌 **Tip:** Focus more on Cognitive Services APIs, Bot Framework, and Language Studio.
+
+---
+
+## 💻 4. **On the Day of Exam (Online Proctored)**
+
+### Requirements:
+- **Stable Internet**
+- **Webcam & Microphone**
+- **Quiet room with clear desk**
+- **Valid ID proof (Aadhar, Passport, DL)**
+
+### Process:
+1. Log in to **Pearson VUE** 30 mins before the exam
+2. Perform a **system check** (internet, camera, mic)
+3. Show your **ID** and **room** through webcam
+4. Launch the exam and begin
+5. You’re monitored the entire time by a proctor
+
+⛔ No paper, pens, phones, or external monitors allowed.
+
+---
+
+## 🎉 5. **After the Exam**
+
+- **Result:** Shown immediately on screen (Pass/Fail)
+- **Score Report:** Emailed within a few minutes to hours
+- **Certificate:** Issued via Microsoft Learn profile (within 24–48 hours)
+
+📝 You’ll also get a **badge from Credly**, which you can share on LinkedIn!
+
+---
+
+## 🛠️ Optional Retake Policy
+
+- ❌ First attempt failed?
+  - You can **retake after 24 hours**
+  - **Second failure**? Wait **14 days**
+- Max 5 attempts per year
+
+---
+
+### 😎 Bonus Tips for the Exam
+- Use **Microsoft Learn sandbox** to try services for free
+- Review **JSON response formats** for services like Text Analytics, Vision, and Speech
+- Practice **creating bots** using Bot Framework Composer or Bot SDK
+- Take **MeasureUp** or **Whizlabs** practice exams to simulate real questions
+
